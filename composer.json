@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    },
+    "require": {
+        "php": "^8.1",
+        "symfony/dom-crawler": "^6.2",
+        "symfony/css-selector": "^6.2"
+    }
+}
